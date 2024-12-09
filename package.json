@@ -1,0 +1,21 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "algorithms:bubble-sort": "node src/algorithms/sort/bubble-sort",
+    "algorithms:selection-sort": "node src/algorithms/sort/selection-sort",
+    "algorithms:insertion-sort": "node src/algorithms/sort/insertion-sort",
+    "algorithms:merge-sort": "node src/algorithms/sort/merge-sort",
+    "algorithms:quick-sort": "node src/algorithms/sort/quick-sort",
+    "algorithms:counting-sort": "node src/algorithms/sort/counting-sort",
+    "algorithms:bucket-sort": "node src/algorithms/sort/bucket-sort",
+    "algorithms:radix-sort": "node src/algorithms/sort/radix-sort"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
